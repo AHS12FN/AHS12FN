@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azizul Hakim</h1>
-<h3 align="center">A passionate Software Engineer with extra interest in gaming world. Currently working as a Software Engineer in FieldNation</h3>
+<h3 align="center">A passionate Software Engineer with an extra interest in the gaming world. Currently working as a Senior Software Engineer in FieldNation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahs12fn&label=Profile%20views&color=0e75b6&style=flat" alt="ahs12fn" /> </p>
 
